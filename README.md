@@ -8,12 +8,15 @@
     * http://ledyba.org/2006/03/28034103.php
 * 「成分解析」研究室
     * http://www.vb-user.net/junk/analyze/
+* やじうまウォッチ
+    * http://internet.watch.impress.co.jp/static/yajiuma/2006/04/index.htm
 
 をさらに（？）解析して、それをJavaのアプレットとCのCGIで再実装したバージョンです。
 
 CのCGIは以下で現在も稼働中。
 
 * http://ledyba.org/cgi/Buffalin.cgi
+
 
 原理
 ====

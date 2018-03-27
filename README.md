@@ -5,7 +5,7 @@
 * アレの半分は何でできてる？――「成分解析」が人気
     * http://www.itmedia.co.jp/news/articles/0604/03/news016.html
 * 「成分解析」解析結果
-    * http://ledyba.org/2006/03/28034103.php
+    * https://7io.org/2006/03/28034103.php
 * 「成分解析」研究室
     * http://www.vb-user.net/junk/analyze/
 * やじうまウォッチ
@@ -13,9 +13,9 @@
 
 をさらに（？）解析して、それをJavaのアプレットとCのCGIで再実装したバージョンです。
 
-CのCGIは以下で現在も稼働中。
+CのCGIはJSに移植して以下で稼働中
 
-* http://ledyba.org/cgi/Buffalin.cgi
+* https://app.7io.org/Buffalin/
 
 
 原理
@@ -25,7 +25,7 @@ CのCGIは以下で現在も稼働中。
 詳しくは
 
 * 「成分解析」解析結果
-    * http://ledyba.org/2006/03/28034103.php
+    * https://7io.org/2006/03/28034103.php
 
 ライセンス
 ====

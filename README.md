@@ -29,4 +29,4 @@ CのCGIはJSに移植して以下で稼働中
 
 ライセンス
 ====
-GPL v3 or later
+AGPL v3 or later
